@@ -1,4 +1,4 @@
-package com.lothrazar.examplemod;
+package com.JY9146.examplemod;
 
 import com.lothrazar.library.config.ConfigTemplate;
 import net.minecraftforge.common.ForgeConfigSpec;
