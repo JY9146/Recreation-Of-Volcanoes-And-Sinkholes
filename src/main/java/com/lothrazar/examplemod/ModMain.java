@@ -1,4 +1,4 @@
-package com.lothrazar.examplemod;
+package com.JY9146.examplemod;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
